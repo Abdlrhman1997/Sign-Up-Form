@@ -22,10 +22,8 @@ img[src="logo.jpg"]{
     height: 80px;
     width: 80px;
     border-radius: 25px;
-    /* position: relative;
-    bottom: 430px;
-    left: 100px; */
     opacity: 1;
+
     
 }
 
@@ -40,7 +38,17 @@ img[src="logo.jpg"]{
     font-size: 40px;
     font-weight: bold;
     color:aquamarine;
+    
 }
 
+/***************************************/
 
+/*style section-2 div*/
+
+#sec-2{
+    background-color: antiquewhite;
+    width: 65%;
+    height: 450px;
+    border: 4px solid green;
+}
 
