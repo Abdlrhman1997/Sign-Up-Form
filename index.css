@@ -54,6 +54,7 @@ img[src="logo.jpg"]{
     padding: 40px;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 23px;
+    box-shadow: 0 8px 6px -6px rgb(167, 166, 166);
 }
 
