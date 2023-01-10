@@ -76,7 +76,11 @@ li{
 input{
     border-radius: 5px;
     width: 210px;
-    height: 30px;
+    height: 25px;
     border: 1px solid gainsboro;
+    padding: 5px;
+    font-family:'Open Sans', sans-serif ;
+    font-weight: bold;
+    font-size: 15px;
     
 }
