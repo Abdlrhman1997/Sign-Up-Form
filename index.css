@@ -58,3 +58,17 @@ img[src="logo.jpg"]{
     box-shadow: 0 8px 6px -6px rgb(167, 166, 166);
 }
 
+form{
+    display: flex;
+    font-size: 15px;
+    margin-top: 60px;
+    gap: 100px;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+    margin-bottom: 12px;
+}
