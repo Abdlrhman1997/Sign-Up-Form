@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:ital,wght@1,100&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -46,9 +48,12 @@ img[src="logo.jpg"]{
 /*style section-2 div*/
 
 #sec-2{
-    background-color: antiquewhite;
+    background-color:aliceblue;
     width: 65%;
     height: 450px;
-    border: 4px solid green;
+    padding: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
 }
 
