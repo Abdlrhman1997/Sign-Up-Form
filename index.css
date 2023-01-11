@@ -7,6 +7,7 @@
 
 body{
     display: flex;
+   
     
 }
 
@@ -115,8 +116,9 @@ input:valid{
 /*style section-3 div*/
 
 #sec-3{
-    margin-top: 40px;
+    margin-top: 45px;
     font-size: 18px;
+    
 }
 
 button{
