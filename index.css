@@ -10,6 +10,8 @@ body{
     
 }
 
+
+
 #sec-1{
     height: 650px;
     width: 35%;
@@ -45,13 +47,20 @@ img[src="logo.jpg"]{
 
 /***************************************/
 
+#sec-2-3_container{
+    display: flex;
+    flex-direction: column;
+    width: 61.2%;
+    
+}
+
 /*style section-2 div*/
 
 #sec-2{
     background-color:aliceblue;
-    width: 65%;
+    width: 100%;
     height: 450px;
-    padding: 40px;
+    padding: 25px;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     font-size: 23px;
@@ -102,3 +111,20 @@ input:valid{
     border-color: green;
 }
 
+/******************************/
+/*style section-3 div*/
+
+#sec-3{
+    margin-top: 40px;
+}
+
+button{
+    background-color: #596D48;
+    border-radius: 5px;
+    padding: 20px 50px;
+    border-style: none;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: azure;
+}
