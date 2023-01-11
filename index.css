@@ -27,22 +27,25 @@ img[src="logo.jpg"]{
     height: 80px;
     width: 80px;
     border-radius: 25px;
+    margin-left: 30px;
     opacity: 1;
 
     
 }
 
 #logo-div{
-    width: 100%;
+    width: 97%;
     height: 15%;
     display: flex;
-    background-color: rgba(18, 18, 19, 0.5);
+    background-color: rgba(18, 18, 19, 0.8);
     position: relative;
     bottom:490px;
     font-family: 'Roboto', sans-serif;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: bold;
-    color:aquamarine;
+    color:rgb(73, 212, 166);
+    padding: 7px;
+    gap: 10px;
     
 }
 
@@ -58,7 +61,7 @@ img[src="logo.jpg"]{
 /*style section-2 div*/
 
 #sec-2{
-    background-color:aliceblue;
+    background-color:rgb(255, 234, 208);
     width: 100%;
     height: 450px;
     padding: 25px;
