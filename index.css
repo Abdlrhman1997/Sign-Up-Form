@@ -76,11 +76,24 @@ li{
 input{
     border-radius: 5px;
     width: 210px;
-    height: 25px;
+    height: 23px;
     border: 1px solid gainsboro;
     padding: 5px;
     font-family:'Open Sans', sans-serif ;
     font-weight: bold;
     font-size: 15px;
-    
+    outline: none;
 }
+
+input:focus{
+    border: 1px solid blue;
+    box-shadow:0 8px 6px -6px rgb(167, 166, 166);
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
