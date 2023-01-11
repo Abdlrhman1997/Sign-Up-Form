@@ -116,15 +116,27 @@ input:valid{
 
 #sec-3{
     margin-top: 40px;
+    font-size: 18px;
 }
 
 button{
     background-color: #596D48;
     border-radius: 5px;
-    padding: 20px 50px;
+    padding: 13px 30px;
     border-style: none;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     font-size: 15px;
-    color: azure;
+    color:aliceblue;
+}
+
+a{
+    text-decoration: none;
+    color: #596D48;
+    font-weight: 1000;
+}
+
+#sec-3_text{
+    display: flex;
+    gap: 10px;
 }
